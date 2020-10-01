@@ -8,7 +8,7 @@ Requirement specification
 5. Goal  
 
 __Project name__
-the project name is the cashier machine : 
+the project name is the cashier machine: 
 
 ![cashier machine](cashier.jpg)
 
