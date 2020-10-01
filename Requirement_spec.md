@@ -15,7 +15,12 @@ the project name is the cashier machine :
 __purpose__
 
 The purpose of this document is to build a cashier machine for store that reduces the cost of bookkeeping and labor, simplify the processing and flow of large amounts of information,easy to manage transaction and products.
-
+The cashier machine actually can do a lot of stuff for the user(saleman) : 
+* Fast Checkouts. Cash registers will ensure that the checkout stage of your business is as fast and seamless as possible. ...
+* Increase Security. Cash registers can improve the security on your shop floor. ...
+* Cash registers prevent the need to keep money out in view of the public. ...
+* Multiple Payment Options. ...
+ * Audit Reports.
 __Intended audience__
 
 This is aimed at the store staff,people who often need to collect money and give back changes .
