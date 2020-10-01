@@ -28,7 +28,7 @@ This is aimed at the store staff,people who often need to collect money and give
 
 __Project outline__
 
-The project will include mainly two parts backend and frontend, the backend will be consist of c# and MYsql
+The project will include mainly two parts backend and frontend, the backend will be consist of c# and MYsql.
 
 __Goal__
 
