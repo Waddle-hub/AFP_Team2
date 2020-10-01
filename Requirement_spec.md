@@ -17,17 +17,18 @@ __purpose__
 The purpose of this document is to build a cashier machine for store that reduces the cost of bookkeeping and labor, simplify the processing and flow of large amounts of information,easy to manage transaction and products.
 The cashier machine actually can do a lot of stuff for the user(saleman) : 
 * Fast Checkouts. Cash registers will ensure that the checkout stage of your business is as fast and seamless as possible. ...
-* Increase Security. Cash registers can improve the security on your shop floor. ...
-* Cash registers prevent the need to keep money out in view of the public. ...
-* Multiple Payment Options. ...
- * Audit Reports.
+* Increase Security. Cash registers can improve the security on your shop floor.The cash drawers will be securely locked until a successful sales transaction is put through.
+* Cash registers prevent the need to keep money out in view of the public. 
+* Multiple Payment Options.you will need to be able to accept all the payment options(card,cash).
+* Audit Reports : Cash registers will record detailed information about each sales transaction.
+
 __Intended audience__
 
 This is aimed at the store staff,people who often need to collect money and give back changes .
 
 __Project outline__
 
-The project will include mainly two parts backend and frontend, the backend will be consist of c# and MSsql
+The project will include mainly two parts backend and frontend, the backend will be consist of c# and MYsql
 
 __Goal__
 
