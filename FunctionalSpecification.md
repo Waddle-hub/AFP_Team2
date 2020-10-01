@@ -21,6 +21,7 @@ In order for the user to be able to use the system they must login first. After 
 * The login screen will only show the ID label as well as password label.
 * The dashboard will have text areas as well as buttons.
 * There will be a logout button at the top corner.
+*only the system administrator can add, delete and modify the software data, while ordinary users can only browse data daily operations and other basic operations.
 
 
 
