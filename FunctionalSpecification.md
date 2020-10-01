@@ -36,6 +36,8 @@ In order to meet the user's efficient requirements, the response time of the dat
 ======
 
 ## Constrains__ :
+The running environment : Microsoft Visual Studio.
+The operating system : Microsoft Windows 10.
 The application should have methods and function that can do all the operations needed like deleting or adding items, updating...etc also,it should have generic classes and methods.
 
 As per said in the requirement specification, the software must oblige the new requlations in the EU, namely GDPR. This means whatever data we collect from the user, must be treated with the upmost care. Also the user MUST explicitly accept the collection and use of his/her data.
