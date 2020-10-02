@@ -3,9 +3,10 @@ Requirement specification
 ## Introduction
 1. Project name
 2. Purpose
-3. Intended audience 
-4. Project outline  
-5. Goal  
+3. Intended audience
+4. User needs 
+5. Project outline  
+6. Goal  
 
 __Project name__
 the project name is the cashier machine: 
@@ -24,11 +25,15 @@ The cashier machine actually can do a lot of stuff for the user(saleman) :
 
 __Intended audience__
 
-This is aimed at the store staff,people who often need to collect money and give back changes .
+This is aimed at the store staff,people who often need to collect money and give back changes,and also,this project can be accessed by developers, project managers, testers, sales and marketing people or stakeholders in other departments.
+
+__User needs__
+
+the users might not only be the salesmen but it can also be used by other developers who may need the application to whether check it or update...so i think for this reason our code should have comments in which we will explain how we get the work done.
 
 __Project outline__
 
-The project will include mainly two parts backend and frontend, the backend will be consist of c# and MYsql.
+The project will include mainly two parts backend and frontend, the backend will be consist of c# and MYsql
 
 __Goal__
 
