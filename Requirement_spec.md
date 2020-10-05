@@ -7,6 +7,7 @@ Requirement specification
 4. User needs 
 5. Project outline  
 6. Goal  
+7. other requirements
 
 __Project name__
 the project name is the cashier machine: 
@@ -33,8 +34,17 @@ the users might not only be the salesmen but it can also be used by other develo
 
 __Project outline__
 
-The project will include mainly two parts backend and frontend, the backend will be consist of c# and MYsql
+The project will include mainly two parts backend and frontend, the backend will be consist of c# and MYsql and also for data processing,otherside,database for storing product or user information.
 
 __Goal__
 
 One of the goal is to know how to be a part of a team in the software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team.
+
+__other requirements__
+
+in this project we will be mainly working on these things : 
+* Performance : how the app reacts to the user’s requests.
+* Safety.
+* Security :  the way the app protects information.
+* Quality.
+* Availability : how the app operates and functions.
