@@ -14,7 +14,7 @@ Requirement specification
 __Project name__
 the project name is the cashier machine: 
 
-![cashier machine](cashier.jpg)
+![cashier machine](/images/cashier.jpg)
 
 __purpose__
 
