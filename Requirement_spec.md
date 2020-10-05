@@ -5,9 +5,11 @@ Requirement specification
 2. Purpose
 3. Intended audience
 4. User needs 
-5. Project outline  
-6. Goal  
-7. other requirements
+5. Project outline 
+6. current situation 
+7. Goal  
+8. Glossary
+9. other requirements
 
 __Project name__
 the project name is the cashier machine: 
@@ -36,9 +38,18 @@ __Project outline__
 
 The project will include mainly two parts backend and frontend, the backend will be consist of c# and MYsql and also for data processing,otherside,database for storing product or user information.
 
+__current situation__
+
+for now we have a plan of making cashier machine application,and we almost have everything(ideas) to start it off.
+
 __Goal__
 
 One of the goal is to know how to be a part of a team in the software industry, through some controlling tools like git, GitHub, and gitLab, also to get to use the task manager websites like Trello.com, and spread the tasks for each member of the team.
+
+__Glossary__
+
+ C# : is a general-purpose, procedural computer programming language supporting structured programming.
+ Mysql : s an open-source relational database management system.
 
 __other requirements__
 
