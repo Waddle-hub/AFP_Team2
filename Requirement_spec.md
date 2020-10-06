@@ -14,7 +14,7 @@ Requirement specification
 __Project name__
 the project name is the cashier machine: 
 
-![cashier machine](cashier.jpg)
+![cashier machine](images/cashier.jpg)
 
 __purpose__
 
@@ -48,8 +48,8 @@ One of the goal is to know how to be a part of a team in the software industry, 
 
 __Glossary__
 
- C# : is a general-purpose, procedural computer programming language supporting structured programming.
- Mysql : s an open-source relational database management system.
+ * C# : is a general-purpose, procedural computer programming language supporting structured programming.
+ * Mysql : s an open-source relational database management system.
 
 __other requirements__
 
