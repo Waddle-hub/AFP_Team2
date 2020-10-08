@@ -16,9 +16,9 @@ The necessity of the project, what to do with evaluating the project itself, the
 make the team work together with a strategy
 
 ## Purpose and Goals
-This application should be made because nowadays so many salesmen use their cashier machine,
-which is a kind of traditional way to deal with customers as it also takes time and needs effort,
-so this application will make it easier and effortless.
+This application should be made because nowadays so many salesmen use calculators,
+which is a kind of a traditional way to deal with customers, as it also takes time and needs effort,
+so for that we need this application that will make it easier and with less effort.
 
 
 
