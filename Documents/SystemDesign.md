@@ -18,19 +18,20 @@ make the team work together with a strategy
 ## Purpose and Goals
 This application should be made because nowadays so many salesmen use calculators,
 which is a kind of a traditional way to deal with customers, as it also takes time and needs effort,
-so for that we need this application that will make it easier and with less effort.
+so for that we need this application that will make it easier and with less effort. goal is to make the life of both the store owner and employee easier with an application which is easy to use and easy to train employees with. Our hopes is to streamline the checkout process with this software which can help out our employees.
 
 
 
 ## Proposed Scope\Architecture
 Architecture:
-The system will be developed in c#. the design will include buttons and text boxes to insert texts and numbers.
+The system will be developed in c#. Using classes, having an Item class which will contain useful methods such as object.toString for the till slip. 
+Have a user interface which will contain the general information, username, id password etc, and have two implementations of the interface which will be admin and employee, by this way we can control the permissions each user has. the design will include buttons and text boxes to insert texts and numbers.
 
 Design:
-Image background on the screen as well as buttons with different colors. Red for delete, Green for add and yellow for edit.
+Image background on the screen as well as buttons with different colors. Red for delete, Green for add and yellow for edit. A form for the employee to create slips for the customers and a form for editing employees accessed by the respective users. we also require a login form which will follow the same design patterns as the previously afore mentioned forms. 
 
 Functionality:
-First page will have just a simple login page and after we will have a simple dashboard.
+First page will have just a simple login page. After which the user will be redirected to their supposed forms, I.e the admin will be directied to the employee management form and the employee user will be taken to the invetory management system where they may create till slips and manage the inventory of the store.
 
 
 
