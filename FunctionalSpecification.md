@@ -15,7 +15,7 @@ The interface will be a not so complicated one, a simple login screen only and a
 
 ## Use Cases
 
-In order for the user to be able to use the system they must login first. After loging in using a user id as well as password then they will see the dashboard.
+In order for the user to be able to use the system they must login first. After loging in using a user id as well as password then they will see the dashboard. The admin user has different permissions from the standard "User" or employee, the amdin can add and remove employees, while the employee can imploy the typical cash machine functionality, add items , remove them and print the slip.
 
 * Only Admin can add/remove users.
 * The login screen will only show the ID label as well as password label.
@@ -33,6 +33,10 @@ Data requirements must be accurate, reliable and true. When you make an action r
 
 Time characteristics. 
 In order to meet the user's efficient requirements, the response time of the data, the update processing time, the data conversion and transmission time, the running time should be within 1-5 seconds. When you need to interact with an external device, such as a printer, the response time may be long, but it should be within acceptable limits.
+
+The systems UI should be simple enough for a person to find out how it works just by looking at it, any complicated UI's would require training and extra money from store owners which is something we dont want.
+
+
 
 ======
 
