@@ -1,0 +1,9 @@
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\bin\Debug\Cashier_Machine.exe.config
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\bin\Debug\Cashier_Machine.exe
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\bin\Debug\Cashier_Machine.pdb
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.csprojAssemblyReference.cache
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.Form1.resources
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.Properties.Resources.resources
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.csproj.GenerateResource.cache
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.exe
+C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.pdb
