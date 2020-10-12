@@ -7,7 +7,7 @@ namespace Item
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello");
         }
     }
     class Item
