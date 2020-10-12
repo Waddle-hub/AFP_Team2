@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Akoch\\source\\repos\\Item\\Item\\Item.csproj",
+      "projectUniqueName": "C:\\Users\\Akoch\\Desktop\\AFP_Team 2\\AFP_Team2\\Project_2\\Item\\Item\\Item.csproj",
       "projectName": "Item",
-      "projectPath": "C:\\Users\\Akoch\\source\\repos\\Item\\Item\\Item.csproj",
+      "projectPath": "C:\\Users\\Akoch\\Desktop\\AFP_Team 2\\AFP_Team2\\Project_2\\Item\\Item\\Item.csproj",
       "packagesPath": "C:\\Users\\Akoch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Akoch\\source\\repos\\Item\\Item\\obj\\",
+      "outputPath": "C:\\Users\\Akoch\\Desktop\\AFP_Team 2\\AFP_Team2\\Project_2\\Item\\Item\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Akoch\\AppData\\Roaming\\NuGet\\NuGet.Config",
