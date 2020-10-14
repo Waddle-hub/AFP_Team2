@@ -1,0 +1,14 @@
+1#Chicken#2000#3000#Meats
+2#Beef#3000#211#Meats
+3#Soap#200#111#Cleaning
+4#Cucumber#1335#123#Vegetables
+5#Chips#1231#1234#Snacks
+6#Milk#24345#123#Dairy
+7#Beer#3453#12455#Alcohol
+8#Rice#3456#3566#Carbs
+9#Pasta#657#567#Carbs
+10#Canned Tomatoes#675#754#Canned
+11#Beans#543#5644#Canned
+12#Bagel#2234#456#Baked
+13#Peas#2342#4564#Vegetables
+14#Carrots#245#4645#Vegetables
