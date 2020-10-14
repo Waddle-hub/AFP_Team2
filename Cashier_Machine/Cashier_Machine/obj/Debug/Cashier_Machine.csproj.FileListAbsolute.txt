@@ -7,3 +7,13 @@ C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\
 C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.csproj.GenerateResource.cache
 C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.exe
 C:\Users\Akoch\Desktop\AFP_Team 2\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.pdb
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.Form1.resources
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.Properties.Resources.resources
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.csproj.GenerateResource.cache
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.csproj.CoreCompileInputs.cache
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.exe
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.pdb
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\bin\Debug\Cashier_Machine.exe.config
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\bin\Debug\Cashier_Machine.exe
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\bin\Debug\Cashier_Machine.pdb
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.Items.resources
