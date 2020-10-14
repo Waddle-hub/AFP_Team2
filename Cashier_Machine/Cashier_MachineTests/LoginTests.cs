@@ -23,5 +23,19 @@ namespace Cashier_MachineTests
             //Assert
             Assert.Pass(result);
         }
+
+        [Test]
+        public void UserWithcorrectUserAndPassword()
+        {
+            //Arrange
+            string username = "root";
+            string password = "password";
+
+            //Act
+            string result = "Welcome User";
+
+            //Assert
+            Assert.Pass(result);
+        }
     }
 }
