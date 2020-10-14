@@ -21,5 +21,33 @@ namespace Cashier_Machine
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            {
+                string user, pass;
+                user = "root";
+                pass = "password";
+
+                if ((textUsername.Text == user) && (textPassword.Text == pass))
+                {
+                    MessageBox.Show("Welcome User");
+                    this.Hide();
+
+                    Form1 form = new Form1();
+                    form.Show();
+                }
+                else
+                {
+
+
+                    MessageBox.Show("Wrong user name or password");
+
+
+
+                }
+
+            }
+        }
     }
 }

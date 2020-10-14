@@ -32,6 +32,7 @@
             this.textUsername = new System.Windows.Forms.TextBox();
             this.LblPassword = new System.Windows.Forms.Label();
             this.textPassword = new System.Windows.Forms.TextBox();
+            this.btnLogin = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -71,12 +72,25 @@
             this.textPassword.Size = new System.Drawing.Size(303, 39);
             this.textPassword.TabIndex = 3;
             // 
+            // btnLogin
+            // 
+            this.btnLogin.BackColor = System.Drawing.Color.Chartreuse;
+            this.btnLogin.Location = new System.Drawing.Point(290, 371);
+            this.btnLogin.Name = "btnLogin";
+            this.btnLogin.Size = new System.Drawing.Size(219, 42);
+            this.btnLogin.TabIndex = 4;
+            this.btnLogin.Text = "Login";
+            this.btnLogin.UseMnemonic = false;
+            this.btnLogin.UseVisualStyleBackColor = false;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Aqua;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.textPassword);
             this.Controls.Add(this.LblPassword);
             this.Controls.Add(this.textUsername);
@@ -95,5 +109,6 @@
         private System.Windows.Forms.TextBox textUsername;
         private System.Windows.Forms.Label LblPassword;
         private System.Windows.Forms.TextBox textPassword;
+        private System.Windows.Forms.Button btnLogin;
     }
 }
