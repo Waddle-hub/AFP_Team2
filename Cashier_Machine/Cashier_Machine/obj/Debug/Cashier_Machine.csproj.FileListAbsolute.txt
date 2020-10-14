@@ -30,3 +30,5 @@ C:\wamp643\www\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machi
 C:\wamp643\www\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.exe
 C:\wamp643\www\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.pdb
 >>>>>>> master
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.csprojAssemblyReference.cache
+C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\obj\Debug\Cashier_Machine.Login.resources
