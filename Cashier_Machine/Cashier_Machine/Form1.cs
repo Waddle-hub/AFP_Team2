@@ -148,5 +148,13 @@ namespace Cashier_Machine
         {
 
         }
+<<<<<<< HEAD
+=======
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+>>>>>>> master
     }
 }
