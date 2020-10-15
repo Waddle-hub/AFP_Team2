@@ -17,6 +17,7 @@ namespace Cashier_Machine
     {
         public Form1()
         {
+            //richTextBox1.Text = "        Till Slip" + "\n";
             InitializeComponent();
         }
 
@@ -82,6 +83,13 @@ namespace Cashier_Machine
         private void button1_Click(object sender, EventArgs e) // Add to cart button
         {
 
+            if(textBox1.Text.Equals(String.Empty))
+            { 
+                MessageBox.Show("Please select an item first");
+            }else 
+            {
+                richTextBox1.Text += label6.Text + "     " + label8.Text + "HUF" + " \n";
+            } 
         }
 
 
