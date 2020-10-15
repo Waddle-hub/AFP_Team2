@@ -11,83 +11,7 @@ using System.IO;
 
 namespace Cashier_Machine
 {
-    public class Items
-    {
-        public Items(string id, int quantity, double price, string name, string category)
-        {
-            this.id = id;
-            this.quantity = quantity;
-            this.price = price;
-            this.name = name;
-            this.category = category;
-        }
-
-        private string id;
-        public string Id
-        {
-            get{
-               return id;
-                }
-            set 
-                {
-                id = value;
-                }
-
-        }
-
-        private string name;
-        public string Name
-        {
-            get
-            {
-                return name;
-            }
-            set
-            {
-                name = value;
-            }
-        }
-
-        private int quantity;
-        public int Quantity
-        {
-            get
-            {
-                return quantity;
-            }
-            set
-            {
-                quantity = value;
-            }
-        }
-
-        private double price;
-        public double Price
-        {
-            get
-            {
-                return price;
-            }
-            set
-            {
-                price = value;
-            }
-        }
-
-        private string category;
-        public string Category
-        {
-            get
-            {
-                return category;
-            }
-            set
-            {
-                category = value;
-            }
-        }
-
-    }
+   
 
     public partial class Form1 : Form
     {
@@ -130,17 +54,28 @@ namespace Cashier_Machine
    
         private void button2_Click(object sender, EventArgs e) // Search button
         {
-            StreamReader sr = new StreamReader(File.OpenRead(@"C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\Storage.txt"));
-            
-            while(!sr.EndOfStream)
+            if(textBox1.Text.Equals(String.Empty))
             {
-                String [] delimited;
-                String sitem = sr.ReadLine();
-                delimited = sitem.Split('#');
-                int quantity = (int)delimited[2];
-                double price = Double.TryParse(delimited[3], price);
-                Items item = new Items(delimited[0], quantity, price, delimited[1], delimited[4] );
-                textBox1.Text(item.Id + item.Name, + item.Price + item.Quantity);
+                MessageBox.Show("Please enter an id");
+            }else 
+            {
+                String [] Storage = File.ReadAllLines(@"C:\Users\wadef\Desktop\Semester Five\AppDev\AFP_Team2\Cashier_Machine\Cashier_Machine\Storage.txt");
+            
+                for (int i = 0; i < Storage.Length; i++)
+			    {
+                   StringBuilder b = new StringBuilder(Storage[i]);
+                   string a = b.ToString();
+                   string [] entry = a.Split(new char [] {'#'});
+
+                   if (entry[0] == textBox1.Text)
+	               {
+                        label7.Text = entry[3];
+                        label6.Text = entry[1];
+                        label8.Text = entry[2];
+                        label9.Text = entry[4];
+                       
+	               } 
+                }   
             }
         }
 
